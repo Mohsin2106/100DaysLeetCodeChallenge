@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
