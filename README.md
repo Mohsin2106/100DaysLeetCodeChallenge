@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3871-count-commas-in-range-ii) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
