@@ -27,7 +27,7 @@ class Solution {
                 maxLen = Math.max(maxLen , right - left +1);
             }
         }
-        if (maxLen == -1){
+        if (maxLen == -1 ){
             return -1;
         }
         return n - maxLen;
