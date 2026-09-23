@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -221,4 +222,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
