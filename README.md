@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0940-distinct-subsequences-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
