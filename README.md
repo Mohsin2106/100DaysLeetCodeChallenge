@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+| [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
+| [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [3731-find-missing-elements](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
