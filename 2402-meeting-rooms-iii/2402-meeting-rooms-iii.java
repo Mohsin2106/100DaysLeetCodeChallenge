@@ -1,109 +1,56 @@
 class Solution {
-    class Pair implements Comparable<Pair> {
-        Long first , second;
+    public int mostBooked(int n, int[][] meetings) {
 
-        Pair(Long first , Long second) {
-            this.first = first;
-            this.second = second;
+        Arrays.sort(meetings, (a, b) -> Integer.compare(a[0], b[0]));
+
+        PriorityQueue<Integer> available = new PriorityQueue<>();
+
+        for (int i = 0; i < n; i++) {
+            available.offer(i);
         }
 
-        @Override
-        public String toString() {
-            return this.first + " " + this.second + " \n";
-        }
+        PriorityQueue<long[]> busy = new PriorityQueue<>(
+            (a, b) -> a[0] == b[0]
+                    ? Long.compare(a[1], b[1])
+                    : Long.compare(a[0], b[0])
+        );
 
-        @Override
-        public int compareTo(Pair that) {
-            if(this.first.compareTo(that.first) == 0)
-                return this.second.compareTo(that.second);
+        int[] count = new int[n];
 
-            return this.first.compareTo(that.first);
-        }
-    }
+        for (int[] meeting : meetings) {
 
-    public int mostBooked(int n, int[][] meet) {
-        TreeMap<Long , Long> mp = new TreeMap<>();
+            long start = meeting[0];
+            long end = meeting[1];
+            long duration = end - start;
 
-        for(int i = 0; i < meet.length; ++i)
-             mp.put(1L * meet[i][0] , 1L * meet[i][1]);
-
-        TreeSet<Pair> avR = new TreeSet<>();
-
-        for(int i = 0; i < n; ++i)
-             avR.add(new Pair( 1L * 0 , 1L * i ));
-
-        TreeSet<Pair> avR1 = new TreeSet<>();
-
-        int [] ans = new int[n];
-
-        while(mp.size() > 0) {
-            Iterator<Map.Entry<Long , Long>> it = mp.entrySet().iterator();
-            Map.Entry<Long , Long> cMeet = it.next();
-            it.remove();
-
-            long start = cMeet.getKey() , end = cMeet.getValue();
-
-            // System.out.println(start + " " + end);
-
-            // for(Pair c : avR) {
-
-            // }
-
-            while(avR.size() > 0) {
-                Iterator<Pair> it1 = avR.iterator();
-                Pair rm = it1.next();
-
-                if(rm.first > start)
-                     break;
-
-                it1.remove();
-                avR1.add(new Pair(rm.second , rm.first));
+            while (!busy.isEmpty() && busy.peek()[0] <= start) {
+                available.offer((int) busy.poll()[1]);
             }
 
-            // System.out.println(avR1 + " : xx");
+            if (!available.isEmpty()) {
+                int room = available.poll();
 
-            if(avR1.size() == 0) {
-                Iterator<Pair> it1 = avR.iterator();
-                Pair rm = it1.next();
-                it1.remove();
-                avR1.add(new Pair(rm.second , rm.first));
-            }
-
-            Iterator<Pair> it2 = avR1.iterator();
-            Pair rm = it2.next();
-            it2.remove();
-
-            long rStart = rm.second , rInx = rm.first;
-
-            // System.out.println(rStart + " " + rInx + " : x");
-
-            if(rStart <= start) {
-                avR.add(new Pair(end , rInx));
+                busy.offer(new long[]{end, room});
+                count[room]++;
             } else {
-                avR.add(new Pair(rStart + (end - start) , rInx));
+                long[] earliest = busy.poll();
+
+                long newStart = earliest[0];
+                int room = (int) earliest[1];
+
+                busy.offer(new long[]{newStart + duration, room});
+                count[room]++;
             }
-
-            int ix = (int)rInx;
-            ans[ix]++;
         }
 
-        // for(int i = 0; i < n; ++i)
-        //     System.out.print(ans[i] + " ");
-        // System.out.println();
+        int answer = 0;
 
-        int mx = 0;
-
-        for(int i = 0; i < n; ++i) {
-             mx = Math.max(ans[i] , mx);
+        for (int i = 1; i < n; i++) {
+            if (count[i] > count[answer]) {
+                answer = i;
+            }
         }
 
-        int ansInx = n;
-
-        for(int i = n - 1; i >= 0; --i)
-            if(mx == ans[i])
-                ansInx = i;
-
-        return ansInx;
-
+        return answer;
     }
 }
