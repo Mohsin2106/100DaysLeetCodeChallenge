@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
