@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [1096-brace-expansion-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [3731-find-missing-elements](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
