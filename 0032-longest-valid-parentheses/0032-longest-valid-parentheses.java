@@ -1,67 +1,25 @@
 class Solution {
-    class Pair {
-        Character first ; Integer second;
-
-        Pair(Character first , Integer second) {
-            this.first = first;
-            this.second = second;
-        }
-    }
-
     public int longestValidParentheses(String s) {
-        int n = s.length();
-        int [] arr = new int[n];
+        int max = 0;
 
-        Arrays.fill(arr , -1);
+        Stack<Integer> stack = new Stack<>();
+        stack.push(-1);
 
-        Stack<Pair> stk = new Stack();
+        for (int i = 0; i < s.length(); i++) {
 
-        for(int i = 0; i < n; ++i) {
-            if(s.charAt(i) == ')') {
-                if((stk.size() > 0) && (stk.peek().first.equals('('))) {
-                     arr[i] = stk.peek().second;
-                     stk.pop();
+            if (s.charAt(i) == '(') {
+                stack.push(i);
+            } else {
+                stack.pop();
+
+                if (stack.isEmpty()) {
+                    stack.push(i);
                 } else {
-                     stk.push(new Pair(')' , i));
+                    max = Math.max(max, i - stack.peek());
                 }
-            } else {
-                stk.push(new Pair('(' , i));
             }
         }
 
-        // for(int i = 0; i < n; ++i)
-        //   System.out.print(arr[i] + " ");
-
-        // System.out.println();
-
-        for(int i = n - 1; i >= 0; --i) {
-            if(arr[i] != -1) {
-                int end = arr[i];
-
-                for(int j = i; j >= end; --j) {
-                    arr[j] = 1;
-                }
-
-                i = end;
-            }
-        }
-
-        // for(int i = 0; i < n; ++i)
-        //   System.out.print(arr[i] + " ");
-
-        // System.out.println();
-
-        int Ans = 0 , cnt = 0;
-
-        for(int i = 0; i < n; ++i) {
-            if(arr[i] == 1) {
-                ++cnt;
-                Ans = Math.max(Ans , cnt);
-            } else {
-                cnt = 0;
-            }
-        }
-
-        return Ans;
+        return max;
     }
 }
