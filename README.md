@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1406-stone-game-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
 | [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
