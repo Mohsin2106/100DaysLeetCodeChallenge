@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0120-triangle](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
