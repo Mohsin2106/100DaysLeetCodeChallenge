@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
+| [0739-daily-temperatures](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0853-car-fleet) |
 | [0877-stone-game](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0853-car-fleet) |
 ## Range Minimum/Maximum Query
 |  |
