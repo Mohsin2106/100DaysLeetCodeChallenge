@@ -20,6 +20,7 @@ class Solution {
         return diameter;   
         
     }
+    // we can also write private int height(TreeNode node)
     int height(TreeNode node){
         if(node == null){
             return 0;
