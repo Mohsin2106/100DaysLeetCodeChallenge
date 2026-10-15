@@ -20,7 +20,7 @@ class Solution {
         return diameter;   
         
     }
-    private int height(TreeNode node){
+    int height(TreeNode node){
         if(node == null){
             return 0;
         }
