@@ -169,11 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3310-remove-methods-from-project) |
@@ -282,10 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
