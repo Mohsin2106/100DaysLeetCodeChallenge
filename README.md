@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search
 |  |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
