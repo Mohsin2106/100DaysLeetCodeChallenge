@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0853-car-fleet](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0853-car-fleet) |
 | [1096-brace-expansion-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Stack
 |  |
 | ------- |
