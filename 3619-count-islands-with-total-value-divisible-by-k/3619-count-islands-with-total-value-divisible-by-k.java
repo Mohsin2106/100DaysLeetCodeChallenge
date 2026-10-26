@@ -1,50 +1,44 @@
+
 class Solution {
+    int[][] grid;
+    int m, n;
+
     public int countIslands(int[][] grid, int k) {
-        int rows = grid.length;
-        int columns = grid[0].length;
+        this.grid = grid;
+        m = grid.length;
+        n = grid[0].length;
+
         int count = 0;
 
-        int[] dr = {-1, 1, 0, 0};
-        int[] dc = {0, 0, -1, 1};
-
-        for (int i = 0; i < rows; i++) {
-            for (int j = 0; j < columns; j++) {
-                if (grid[i][j] == 0) {
-                    continue;
-                }
-
-                long sum = 0;
-                Stack<int[]> stack = new Stack<>();
-                stack.push(new int[]{i, j});
-
-                sum += grid[i][j];
-                grid[i][j] = 0;
-
-                while (!stack.isEmpty()) {
-                    int[] cell = stack.pop();
-
-                    for (int d = 0; d < 4; d++) {
-                        int nr = cell[0] + dr[d];
-                        int nc = cell[1] + dc[d];
-
-                        if (nr < 0 || nr >= rows ||
-                            nc < 0 || nc >= columns ||
-                            grid[nr][nc] == 0) {
-                            continue;
-                        }
-
-                        sum += grid[nr][nc];
-                        grid[nr][nc] = 0;
-                        stack.push(new int[]{nr, nc});
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (this.grid[i][j] != 0) {
+                    if (countArea(i, j) % k == 0) {
+                        count++;
                     }
-                }
-
-                if (sum % k == 0) {
-                    count++;
                 }
             }
         }
 
         return count;
+    }
+
+    long countArea(int i, int j) {
+        long sum = grid[i][j];
+        grid[i][j] = 0;
+
+        if (i > 0 && grid[i - 1][j] != 0)
+            sum += countArea(i - 1, j);
+
+        if (j > 0 && grid[i][j - 1] != 0)
+            sum += countArea(i, j - 1);
+
+        if (i < m - 1 && grid[i + 1][j] != 0)
+            sum += countArea(i + 1, j);
+
+        if (j < n - 1 && grid[i][j + 1] != 0)
+            sum += countArea(i, j + 1);
+
+        return sum;
     }
 }
