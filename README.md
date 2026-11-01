@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0475-heaters](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0739-daily-temperatures](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/1140-stone-game-ii) |
