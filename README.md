@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3525-find-x-value-of-array-ii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3665-twisted-mirror-path-count) |
 ## Recursion
 |  |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Nim Game
 |  |
 | ------- |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/2402-meeting-rooms-iii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Mohsin2106/30DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Interactive
 |  |
 | ------- |
